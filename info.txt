@@ -3,8 +3,6 @@ Basildon
 Coloxy Ltd
 Essex
 AWS
-<<<<<<< HEAD
 Docker
-=======
 Java
->>>>>>> d7d528813a39d4ba86d906ceec15c530b68c6a17
+Ansible
